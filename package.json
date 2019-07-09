@@ -1,0 +1,23 @@
+{
+  "name": "demo-cracker",
+  "version": "1.0.1",
+  "description": "demo of how to use binary attack code",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://"
+  },
+  "keywords": [
+    "blockchain",
+    "attack",
+    "demo"
+  ],
+  "author": "JustinChou <zhou78620051@126.com>",
+  "license": "MIT",
+  "dependencies": {
+    "event-stream": "^4.0.1"
+  }
+}
